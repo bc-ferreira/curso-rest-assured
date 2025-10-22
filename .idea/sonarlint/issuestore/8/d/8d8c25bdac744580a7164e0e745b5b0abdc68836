@@ -1,0 +1,18 @@
+
+v
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(³Å±°8ŸÔÀ½È1
+c
+java:S1192G"FDefine a constant instead of duplicating this literal "admin" 4 times.(º•íì8¤ÔÀ½È1
+c
+java:S1192G"FDefine a constant instead of duplicating this literal "senha" 4 times.(º•íì8¥ÔÀ½È1
+d
+java:S1192@"GDefine a constant instead of duplicating this literal "logado" 3 times.(Ïú¾‰8¥ÔÀ½È1
+d
+java:S1192@"GDefine a constant instead of duplicating this literal "status" 3 times.(Ïú¾‰8¦ÔÀ½È1
+A	java:S106"+Replace this use of System.out by a logger.(ŸŸã•
+F	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+A	java:S106"+Replace this use of System.out by a logger.(áïßá
+@	java:S106Ÿ"+Replace this use of System.out by a logger.(ŠÄë
+F	java:S106¡"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+A	java:S106¢"+Replace this use of System.out by a logger.(©“†Ã
+F	java:S106¥"+Replace this use of System.out by a logger.(Ìığ­úÿÿÿÿ
