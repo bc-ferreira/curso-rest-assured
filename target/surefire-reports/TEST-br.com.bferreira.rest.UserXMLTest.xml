@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="br.com.bferreira.rest.UserXMLTest" time="1.28" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="br.com.bferreira.rest.UserXMLTest" time="1.234" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="jansi.mode" value="force"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -57,5 +57,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
   </properties>
-  <testcase name="devoFazerPesquisasAvancadasXMLeJava" classname="br.com.bferreira.rest.UserXMLTest" time="1.28"/>
+  <testcase name="devoFazerPesquisasAvancadasXMLeJava" classname="br.com.bferreira.rest.UserXMLTest" time="1.234"/>
 </testsuite>

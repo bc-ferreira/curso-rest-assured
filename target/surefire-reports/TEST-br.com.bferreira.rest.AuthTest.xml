@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="br.com.bferreira.rest.AuthTest" time="1.495" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="br.com.bferreira.rest.AuthTest" time="1.54" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="jansi.mode" value="force"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -57,5 +57,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
   </properties>
-  <testcase name="deveObterClima" classname="br.com.bferreira.rest.AuthTest" time="1.495"/>
+  <testcase name="deveObterClima" classname="br.com.bferreira.rest.AuthTest" time="1.54"/>
 </testsuite>
