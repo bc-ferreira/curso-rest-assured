@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="br.com.bferreira.rest.AuthTest" time="2.21" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="br.com.bferreira.rest.AuthTest" time="1.495" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="jansi.mode" value="force"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -12,7 +12,7 @@
     <property name="path.separator" value=":"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="test" value="AuthTest#deveFazerAutenticacaoComToken"/>
+    <property name="test" value="AuthTest#deveObterClima"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="user.dir" value="/workspace/project/curso-rest-assured"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
@@ -42,7 +42,7 @@
     <property name="java.class.path" value="/usr/share/maven/boot/plexus-classworlds-2.x.jar"/>
     <property name="java.vm.specification.version" value="21"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -Dtest=AuthTest#deveFazerAutenticacaoComToken"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -Dtest=AuthTest#deveObterClima"/>
     <property name="java.home" value="/usr/lib/jvm/java-21-openjdk-amd64"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -57,5 +57,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
   </properties>
-  <testcase name="deveFazerAutenticacaoComToken" classname="br.com.bferreira.rest.AuthTest" time="2.21"/>
+  <testcase name="deveObterClima" classname="br.com.bferreira.rest.AuthTest" time="1.495"/>
 </testsuite>

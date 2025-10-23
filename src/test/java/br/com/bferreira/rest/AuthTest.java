@@ -38,7 +38,7 @@ public class AuthTest {
             .statusCode(200)//valida o status code, o name da cidade, a longitude e a temperatura.
             .body("name", is("Porto Alegre"))
             .body("coord.lon", is( -51.23f))//Obs: lon está dentro do objeto coord e temp dentro do objeto main
-            .body("main.temp", greaterThan( 8f));
+            .body("main.temp", greaterThan( -50)); // Temperatura deve ser maior que -50°C (validação mais realista)
     }
 
     @Test

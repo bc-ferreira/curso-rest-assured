@@ -95,7 +95,7 @@ public class UserXMLTest {
 
     @Test
     public void devoFazerPesquisasAvancadasXMLeJava() {
-        List<String> nomes = given()
+        List<Object> nomes = given()
                 .when()
                 .get("/usersXML")
                 .then()//É passado para o arrayList uma coleção que contém os nomes que possuem a letra 'n', depois é mais facil trabalhar com os dados
